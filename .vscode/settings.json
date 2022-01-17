@@ -1,0 +1,11 @@
+// https://github.com/FabricaDeSinapse/nodejs-prettier-template/blob/main/README.md
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": true
+  },
+  "files.eol": "\n",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
