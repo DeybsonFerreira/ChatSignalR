@@ -14,6 +14,6 @@
 
 # Preview
 
-<video width="320" height="240" controls>
-  <source src="working.mp4" type="video/mp4">
-</video>
+
+https://user-images.githubusercontent.com/36869636/149833381-60a94781-828f-40e6-af3d-8459a15b61bc.mp4
+
