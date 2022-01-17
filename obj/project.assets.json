@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\deybson.ferreira\\Desktop\\ChatSignalR\\ChatSignalR.csproj",
+      "projectUniqueName": "C:\\Users\\deybson.ferreira\\OneDrive - Adventistas\\Documentos\\Git\\ChatSignalR\\ChatSignalR.csproj",
       "projectName": "ChatSignalR",
-      "projectPath": "C:\\Users\\deybson.ferreira\\Desktop\\ChatSignalR\\ChatSignalR.csproj",
+      "projectPath": "C:\\Users\\deybson.ferreira\\OneDrive - Adventistas\\Documentos\\Git\\ChatSignalR\\ChatSignalR.csproj",
       "packagesPath": "C:\\Users\\deybson.ferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\deybson.ferreira\\Desktop\\ChatSignalR\\obj\\",
+      "outputPath": "C:\\Users\\deybson.ferreira\\OneDrive - Adventistas\\Documentos\\Git\\ChatSignalR\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\deybson.ferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",

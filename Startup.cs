@@ -42,4 +42,3 @@ namespace ChatSignalR
     }
 }
 //dotnet watch run
-// https://www.treinaweb.com.br/blog/criando-um-chat-com-asp-net-core-signalr

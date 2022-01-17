@@ -24,3 +24,29 @@ C:\Users\deybson.ferreira\Desktop\ChatSignalR\obj\Debug\net5.0\ChatSignalR.genru
 C:\Users\deybson.ferreira\Desktop\ChatSignalR\bin\Debug\net5.0\.prettierrc.json
 C:\Users\deybson.ferreira\Desktop\ChatSignalR\bin\Debug\net5.0\package-lock.json
 C:\Users\deybson.ferreira\Desktop\ChatSignalR\bin\Debug\net5.0\package.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\.prettierrc.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\appsettings.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\package-lock.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\package.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\ChatSignalR.exe
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\ChatSignalR.deps.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\ChatSignalR.runtimeconfig.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\ChatSignalR.runtimeconfig.dev.json
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\ChatSignalR.dll
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\ref\ChatSignalR.dll
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\bin\Debug\net5.0\ChatSignalR.pdb
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.csproj.AssemblyReference.cache
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.AssemblyInfoInputs.cache
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.AssemblyInfo.cs
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.csproj.CoreCompileInputs.cache
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\staticwebassets\ChatSignalR.StaticWebAssets.Manifest.cache
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\staticwebassets\ChatSignalR.StaticWebAssets.xml
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\scopedcss\bundle\ChatSignalR.styles.css
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.RazorTargetAssemblyInfo.cache
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.dll
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ref\ChatSignalR.dll
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.pdb
+C:\Users\deybson.ferreira\OneDrive - Adventistas\Documentos\Git\ChatSignalR\obj\Debug\net5.0\ChatSignalR.genruntimeconfig.cache
